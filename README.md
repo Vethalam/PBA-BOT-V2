@@ -1,3 +1,4 @@
+
 # PBA BOT
 
 <div align="center">
@@ -25,12 +26,12 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@4𝕾𝖀𝕽4 𝖁3𝕿𝕳4𝕷4𝕸/PBA-BOT-Qr-test)
 
 ## `DEPLOY`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty-V3.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adithyan-Kochi/PBA-BOT-V3.git) 
 ----------
 
 
@@ -39,7 +40,7 @@
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/Adithyan-Kochi"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
 
@@ -50,11 +51,11 @@
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![4𝕾𝖀𝕽4 𝖁3𝕿𝕳4𝕷4𝕸](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Adithyan-Kochi)[`4𝕾𝖀𝕽4 𝖁3𝕿𝕳4𝕷4𝕸`](https://github.com/Adithyan-Kochi)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Adithyan-Kochi)[`Achu`](https://github.com/Adithyan-Kochi)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
@@ -73,3 +74,73 @@
 
                                   
   </div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
