@@ -26,7 +26,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@4𝕾𝖀𝕽4 𝖁3𝕿𝕳4𝕷4𝕸/PBA-BOT-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 ## `DEPLOY`
 
